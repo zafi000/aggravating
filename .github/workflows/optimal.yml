@@ -1,0 +1,245 @@
+name: optimal
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  cheap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: pace toward insert signature
+        run: |
+          npm install
+          timeout 337m node optimal.js || echo "optimal executed"
+
+  inquisitively_furthermore_ugh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: although why strong
+        run: |
+          npm install
+          timeout 307m node optimal.js || echo "optimal executed"
+
+  pfft:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: hm supposing agreeable flowery
+        run: |
+          npm install
+          timeout 308m node optimal.js || echo "optimal executed"
+
+  any_standard_yippee:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: meanwhile steep blah coaxingly carelessly
+        run: |
+          npm install
+          timeout 350m node optimal.js || echo "optimal executed"
+
+  ugh_yogurt:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: consequently galoshes retrospectivity inside hungry
+        run: |
+          npm install
+          timeout 308m node optimal.js || echo "optimal executed"
+
+  steel_modulo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: roughly agreement
+        run: |
+          npm install
+          timeout 306m node optimal.js || echo "optimal executed"
+
+  moralise_elegantly_formula:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: failing
+        run: |
+          npm install
+          timeout 300m node optimal.js || echo "optimal executed"
+
+  surprisingly:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: oof cinch
+        run: |
+          npm install
+          timeout 313m node optimal.js || echo "optimal executed"
+
+  runny:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: judicious claw
+        run: |
+          npm install
+          timeout 322m node optimal.js || echo "optimal executed"
+
+  misreport_jellyfish_including:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: up victorious
+        run: |
+          npm install
+          timeout 346m node optimal.js || echo "optimal executed"
+
+  until:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: or pish young beyond phew
+        run: |
+          npm install
+          timeout 340m node optimal.js || echo "optimal executed"
+
+  tremendously:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: not clavicle portray completion
+        run: |
+          npm install
+          timeout 313m node optimal.js || echo "optimal executed"
+
+  gee_achieve:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: ah of over fragrant
+        run: |
+          npm install
+          timeout 305m node optimal.js || echo "optimal executed"
+
+  married:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: incline why gently utilization
+        run: |
+          npm install
+          timeout 341m node optimal.js || echo "optimal executed"
+
+  jet_because_boohoo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: confide until
+        run: |
+          npm install
+          timeout 307m node optimal.js || echo "optimal executed"
